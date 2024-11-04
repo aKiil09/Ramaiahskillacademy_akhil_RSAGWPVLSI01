@@ -5,4 +5,4 @@
 # [5.	Digital Stopwatch](https://www.tinkercad.com/things/dwJFqkdcr18-digital-stopwatch)
 # [6.	Motion-Activated Alarm](https://www.tinkercad.com/things/9msxq2WLa8h-motion-activated-alarm)
 # [7.	Temperature Monitoring System](https://www.tinkercad.com/things/2q5P53afam4-temperature-monitoring-system)
-# [8.	People Counter with Direction Detection]()
+# [8.	People Counter with Direction Detection](https://www.tinkercad.com/things/l7RSeTGfOci-people-counter-with-direction-detection?sharecode=3HzKeFZVmlcOFSxlg21usxLeqhQN3xeraMJKXfTYQwU)
